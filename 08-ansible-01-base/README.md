@@ -22,6 +22,17 @@
 12. Заполните `README.md` ответами на вопросы. Сделайте `git push` в ветку `master`. В ответе отправьте ссылку на ваш открытый репозиторий с изменённым `playbook` и заполненным `README.md`.
 13. Предоставьте скриншоты результатов запуска команд.
 
+## Скриншоты к основной части
+1.![Screen_01](Screenshot_01.jpg)
+2.![Screen_01](Screenshot_02.jpg)
+4.![Screen_01](Screenshot_04.jpg)
+5.![Screen_01](Screenshot_05.jpg)
+7.![Screen_01](Screenshot_07.jpg)
+8.![Screen_01](Screenshot_08.jpg)
+9.![Screen_01](Screenshot_09.jpg)
+11.![Screen_01](Screenshot_11.jpg)
+![Screen_01](Screenshot_11_02.jpg)
+
 ## Необязательная часть
 
 1. При помощи `ansible-vault` расшифруйте все зашифрованные файлы с переменными.
@@ -30,6 +41,13 @@
 4. Добавьте новую группу хостов `fedora`, самостоятельно придумайте для неё переменную. В качестве образа можно использовать [этот вариант](https://hub.docker.com/r/pycontribs/fedora).
 5. Напишите скрипт на bash: автоматизируйте поднятие необходимых контейнеров, запуск ansible-playbook и остановку контейнеров.
 6. Все изменения должны быть зафиксированы и отправлены в ваш личный репозиторий.
+
+## Скриншоты к необязательной части
+1.![Screen_01](Screenshot_add_01.jpg)
+2.![Screen_01](Screenshot_add_02.jpg)
+3.![Screen_01](Screenshot_add_03.jpg)
+4.![Screen_01](Screenshot_add_04.jpg)
+5.[run_test.sh](run_test.sh)
 
 ---
 
